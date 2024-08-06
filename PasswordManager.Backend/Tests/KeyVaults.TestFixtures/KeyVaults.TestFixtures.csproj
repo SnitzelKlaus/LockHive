@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+	<AssemblyName>PasswordManager.KeyVaults.TestFixtures</AssemblyName>
+	<RootNamespace>PasswordManager.KeyVaults.TestFixtures</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

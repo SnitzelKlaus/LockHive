@@ -1,0 +1,4 @@
+enum VaultValueType {
+  password,
+  creditCard,
+}

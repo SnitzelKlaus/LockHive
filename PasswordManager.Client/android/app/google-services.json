@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "631769932989",
+    "project_id": "lockhive-cbc3a",
+    "storage_bucket": "lockhive-cbc3a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631769932989:android:ee3c61d7f364f13bee83d4",
+        "android_client_info": {
+          "package_name": "com.example.password_manager_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJSVZ3pcNoc4jBLnaubmZkoBbTuRbz1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

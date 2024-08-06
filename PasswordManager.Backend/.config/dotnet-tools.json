@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "umbraco.cloud.tools.apigenerator": {
+      "version": "0.0.11",
+      "commands": [
+        "apigenerator"
+      ]
+    }
+  }
+}
